@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinoth_Kannan
-- 👀 I’m interested in Data and Deep Learning
+- 👀 I’m interested in Data Analysis and Deep Learning
 - 🌱 I’m currently learning Masters in Information technology
 - 💞️ I’m looking to collaborate on Kaggle projects and Deep learning Projects
 - 📫 How to reach me vinothcruze1@gmail.com
