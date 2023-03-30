@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Data Engineering
 - 🌱 I’m currently learning Masters in Information technology
 - 💞️ I’m looking to collaborate on Kaggle projects and AI/ML Projects
-- 📫 How to reach me vinothcruze1@gmail.com
+- 📫 How to reach me vinothkannan70@gmail.com
 
 <!---
 VinothCruze/VinothCruze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
